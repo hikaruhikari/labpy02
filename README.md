@@ -32,4 +32,30 @@ flowchart sudah selesai, langkah selanjutnya membuat program tiket bioskop
 
 ![4](https://github.com/user-attachments/assets/7d490d7c-2584-4dc5-9070-4977508cf7c1)
 
+3. Masukkan pilihan angka, ya atau tidak pada kartu member, lalu buat operator ternary
 
+![5](https://github.com/user-attachments/assets/46264f84-c29b-4e49-b6ce-d1dcb4c24f92)
+
+4. Selanjutnya buat "if" dan "else" pada program (ini bagian tersusah dalam tugas ini)
+
+![6](https://github.com/user-attachments/assets/bbf58003-384b-41e0-bbe1-1e4ceab7888a)
+
+dibagian "if" diperlukan 2 kali perhitungan dan cetakan supaya program berjalan
+
+Untuk "else" buat cetakan 2 kali dengan cetakan pertama sebagai keterangan bahwa tidak ada diskon dan yang kedua untuk menunjukkan harga
+
+5. setelah selesai membuat program, maka langkah terakhir adalah menjalankan program tersebut (kalo tidak dijalankan buat apa dibuat)
+
+![3](https://github.com/user-attachments/assets/82347868-a252-487a-ab6f-83c0e7bb495f)
+
+inilah proses program pada tiket bioskop
+
+Tugas 2: Program Kalkulator Sederhana
+
+Buat program kalkulator yang menerima dua angka dan satu operator aritmatika dari
+pengguna (penjumlahan, pengurangan, perkalian, atau pembagian). Program akan
+menghitung hasil sesuai dengan operator yang dipilih.
+
+Petunjuk:
+
+● Gunakan if elif else untuk menentukan operasi aritmatika.
