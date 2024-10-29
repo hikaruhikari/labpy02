@@ -2,6 +2,8 @@
 
 Latihan 3
 
+untuk program pada latihan ketiga menggunakan python
+
 Tugas 1: Program Pemesanan Tiket Bioskop
 
 Buat program yang menghitung harga tiket bioskop. Tiket reguler berharga Rp50.000,
@@ -59,3 +61,39 @@ menghitung hasil sesuai dengan operator yang dipilih.
 Petunjuk:
 
 ● Gunakan if elif else untuk menentukan operasi aritmatika.
+
+Langkah - Langkah tugas 2
+
+Buat flowchart mengenai kalkulator terlebih dahulu agar mempermudah membuat kode program
+
+![kakulator (2)](https://github.com/user-attachments/assets/63da67ca-5391-4e36-8f5a-3bc5c8a27af4)
+
+(disclaimer, untuk flowchart dan codingannya mungkin sedikit berbeda dalam struktur pembuatannya)
+
+setelah selesai membuat, lanjut ke langkah pertama
+
+1. Buat cetakan string sebagai penjelasan dalam kalkulator
+
+![12](https://github.com/user-attachments/assets/95b234b6-ebd1-4a86-bb40-af631d48150a)
+
+2. Buat variable input dan input integer untuk memasukkan angka
+
+![13](https://github.com/user-attachments/assets/28439df1-e8c5-4cf2-8d35-6bca6cdae04e)
+
+untuk variable A tidak menggunakan int dikarenakan angka yang diketik tidak terhitung integer string
+
+3. Buat program 'if' 'elif' 'else' pada program
+
+![14](https://github.com/user-attachments/assets/12e31ae2-ec66-419d-befb-04f901bed4ae)
+
+'f' pada program merupakan literal string yang diformat dan baru di Python 3.6 . Literal string yang diformat atau f-string adalah literal string yang diawali dengan f atau F. String ini dapat berisi bidang pengganti, yang merupakan ekspresi yang dibatasi oleh kurung kurawal {}
+
+4. Langkah terakhir yaitu menjalankan program
+
+![15](https://github.com/user-attachments/assets/c57913a8-b7c7-4c82-814f-6ea567f8e9d0)
+
+selesai sudah program kalkulator di python
+
+kesimpulan
+
+walau pada awalnya susah dibuat tetapi dengan melihat materi lama, bertanya ke mbah google dan bertanya ke teman membuat saya bisa menyelesaikan kode program python yang ada pada latihan 3. Ini menjadi bukti bahwa membuat program tidak hanya buat jadi tetapi juga harus memahami, menghafal dan teliti dalam membuat suatu program.
